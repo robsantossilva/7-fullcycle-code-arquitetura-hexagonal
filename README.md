@@ -17,31 +17,31 @@ CRUD qualquer um faz!
 ### Ciclo de vida de muitos projetos
 Fase 1 | Fase 2 | Fase 3 |
 ---|---|---
-- Banco de dados        | - Regras de negócio   | - Mais acessos
-- Cadastros             | - Criação de APIs     | - Upgrades hardware
-- Validações            | - Consumo de APIs     | - Cache
-- Controllers           | - Autorização         | - API parceiros
-- Views                 | - Relatórios          | - Regras parceiros
-- Autenticação          | - Logs                | - Relatórios
-- Upload de arquivos    |                       |
+Banco de dados        | Regras de negócio   |Mais acessos
+Cadastros             | Criação de APIs     |Upgrades hardware
+Validações            | Consumo de APIs     |Cache
+Controllers           | Autorização         |API parceiros
+Views                 | Relatórios          |Regras parceiros
+Autenticação          | Logs                |Relatórios
+Upload de arquivos    |                       |
 
 Fase 4 | Fase 5 | Fase 6 |
 ---|---|---
-- Mais acessos          | - Escala Horizontal   | - GraphQL
-- Upgrade hardware      | - Sessões             | - Bugs constantes
-- BD relatórios         | - Uploads             | - Logs?
-- Comandos              | - Refatoração         | - Integração CRM
-- V2 da API             | - Autoscaling         | - Migração para React
--                       | - CI/DC               | -
+Mais acessos          |Escala Horizontal   |GraphQL
+Upgrade hardware      |Sessões             |Bugs constantes
+BD relatórios         |Uploads             |Logs?
+Comandos              |Refatoração         |Integração CRM
+V2 da API             |Autoscaling         |Migração para React
+                      |CI/DC               |
 
 Fase 7 | Fase 8 | Fase 9 | Fase 10
 ---|---|---| ---
-- Inconsistência CRM    | - Microsserviços          | - Kubernetes          | - Use a imaginação
-- Containers            | - DB compartilhado        | - CI/CD               |
-- CI/CD                 | - Problemas com tracing   | - Mensageria          |
-- Memórias              | - Lentidão                | - Perda de mensagens  |
-- Logs                  | - Custo elevado           | - Consultorias        |
-- Se livrar do legado   |                           |
+Inconsistência CRM    |Microsserviços          |Kubernetes          |Use a imaginação
+Containers            |DB compartilhado        |CI/CD               |
+CI/CD                 |Problemas com tracing   |Mensageria          |
+Memórias              |Lentidão                |Perda de mensagens  |
+Logs                  |Custo elevado           |Consultorias        |
+Se livrar do legado   |                           |
 
 ### Principais problemas
 - Não ter visão de futuro
