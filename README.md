@@ -23,7 +23,7 @@ Validações            | Consumo de APIs     |Cache
 Controllers           | Autorização         |API parceiros
 Views                 | Relatórios          |Regras parceiros
 Autenticação          | Logs                |Relatórios
-Upload de arquivos    |                       |
+Upload de arquivos    | &nbsp;              |&nbsp;
 
 Fase 4 | Fase 5 | Fase 6 |
 ---|---|---
@@ -32,16 +32,16 @@ Upgrade hardware      |Sessões             |Bugs constantes
 BD relatórios         |Uploads             |Logs?
 Comandos              |Refatoração         |Integração CRM
 V2 da API             |Autoscaling         |Migração para React
-                      |CI/DC               |
+&nbsp;                |CI/DC               |&nbsp;
 
 Fase 7 | Fase 8 | Fase 9 | Fase 10
 ---|---|---| ---
 Inconsistência CRM    |Microsserviços          |Kubernetes          |Use a imaginação
-Containers            |DB compartilhado        |CI/CD               |
-CI/CD                 |Problemas com tracing   |Mensageria          |
-Memórias              |Lentidão                |Perda de mensagens  |
-Logs                  |Custo elevado           |Consultorias        |
-Se livrar do legado   |                           |
+Containers            |DB compartilhado        |CI/CD               |&nbsp;
+CI/CD                 |Problemas com tracing   |Mensageria          |&nbsp;
+Memórias              |Lentidão                |Perda de mensagens  |&nbsp;
+Logs                  |Custo elevado           |Consultorias        |&nbsp;
+Se livrar do legado   |&nbsp;                  |&nbsp;              |&nbsp;
 
 ### Principais problemas
 - Não ter visão de futuro
